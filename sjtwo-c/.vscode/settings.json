@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "inttypes.h": "c",
+        "mp3_controls.h": "c",
+        "mp3_decoder.h": "c",
+        "semaphore.h": "c",
+        "*.mods": "c"
+    }
+}
